@@ -1,0 +1,33 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+.navbar {
+  background-color: rgb(195 229 156) !important;
+}
+
+.AboutUs {
+  background-color: #eef0b7;
+  width: auto;
+  color: #0c2711;
+  font-family: "Playfair Display", serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+body {
+  background-color: #f4fed6;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 250px;
+}
+
+.btn-primary {
+  background-color: #eef0b7;
+  --bs-btn-color: #0c2711;
+  --bs-btn-border-color: #0c2711;
+  --bs-btn-hover-color: white;
+  --bs-btn-hover-bg: #0c2711;
+}
